@@ -46,6 +46,79 @@
     height: 800px;
 }
 
+/* heading section end */
+
+
+/* feature section start */
+
+.feature-flower {
+    margin-top: 10px;
+}
+
+.feature-heading {
+    text-align: center;
+}
+
+.feature-heading h2{
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    margin-bottom: 18px;
+}
+
+.feature-heading p {
+    font-family: 'Roboto Slab', serif;
+}
+
+.feature-image {
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flower {
+    width: 27%;
+}
+
+.first-img {
+    background:url("Flower Asset/pngwing 6.png"), rgba(167, 33, 98, 0.15);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 300px 300px 0px 0px;
+    padding: 30px 30px 0 30px;
+    height: 500px;
+}
+
+.second-img {
+    background: url("Flower Asset/pngwing 5.png"), rgba(5, 151, 160, 0.15);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 300px 300px 0px 0px;
+    padding: 30px 30px 0 30px;
+    
+    height: 500px;
+}
+
+.third-img {
+    background: url("Flower Asset/pngwing 7.png"), rgba(71, 125, 17, 0.15);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 300px 300px 0px 0px;
+    padding: 30px 30px 0 30px;
+    
+    height: 500px;
+}
+
+.pink-flower-tree{
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: underline;   
+}
+
+/* feature section end */
+
 
 
 
