@@ -10,8 +10,9 @@
     display: flex;
     margin-top: 10px;
     padding: 100px;
-    height: 800px;
+    height: 600px;
     align-items: center;
+    margin-bottom: 50px;
 }
 
 .heading {
@@ -52,7 +53,7 @@
 /* feature section start */
 
 .feature-flower {
-    margin-top: 10px;
+    margin-bottom: 50px;
 }
 
 .feature-heading {
@@ -86,7 +87,7 @@
     background-position: center;
     border-radius: 300px 300px 0px 0px;
     padding: 30px 30px 0 30px;
-    height: 500px;
+    height: 400px;
 }
 
 .second-img {
@@ -95,8 +96,7 @@
     background-position: center;
     border-radius: 300px 300px 0px 0px;
     padding: 30px 30px 0 30px;
-    
-    height: 500px;
+    height: 400px;
 }
 
 .third-img {
@@ -105,8 +105,7 @@
     background-position: center;
     border-radius: 300px 300px 0px 0px;
     padding: 30px 30px 0 30px;
-    
-    height: 500px;
+    height: 400px;
 }
 
 .pink-flower-tree{
@@ -128,6 +127,7 @@
     align-items: center;
     padding: 100px;
     background-color: rgba(234, 100, 129, 0.10);
+    margin-bottom: 50px;
 }
 
 .hot-deal-first-half {
@@ -156,7 +156,7 @@
 /* Social section start */
 
 .social-container {
-    margin-top: 25px;
+    margin-bottom: 50px;
 }
 
 .social-heading {
@@ -212,16 +212,19 @@
 
 /* Latest deal section start */
 
+.latest-main-container {
+    padding: 100px;
+    margin-bottom: 50px;
+}
+
 .latest-deal-container {
     margin: auto;
-    width: 80%;
     border-radius: 8px;
     background: url("Flower Asset/Rectangle\ 9.png"), lightgray 0px -203.444px / 100% 213.755% no-repeat;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 50px;
-    
 }
 
 .latest-deal-container h2 {
@@ -255,7 +258,7 @@
 .service-container {
     background-color: rgba(234, 100, 129, 0.10);
     padding: 100px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .service-heading {
