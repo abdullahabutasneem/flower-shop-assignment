@@ -82,30 +82,36 @@
 }
 
 .first-img {
-    background:url("Flower Asset/pngwing 6.png"), rgba(167, 33, 98, 0.15);
+    /* background:url("Flower Asset/pngwing 6.png"), rgba(167, 33, 98, 0.15); */
+    background: rgba(167, 33, 98, 0.15);
     background-repeat: no-repeat;
     background-position: center;
+    text-align: center;
     border-radius: 300px 300px 0px 0px;
     padding: 30px 30px 0 30px;
-    height: 400px;
+    height: 390px;
 }
 
 .second-img {
-    background: url("Flower Asset/pngwing 5.png"), rgba(5, 151, 160, 0.15);
+    /* background: url("Flower Asset/pngwing 5.png"), rgba(5, 151, 160, 0.15); */
+    background: rgba(5, 151, 160, 0.15);
     background-repeat: no-repeat;
     background-position: center;
+    text-align: center;
     border-radius: 300px 300px 0px 0px;
     padding: 30px 30px 0 30px;
-    height: 400px;
+    height: 390px;
 }
 
 .third-img {
-    background: url("Flower Asset/pngwing 7.png"), rgba(71, 125, 17, 0.15);
+    /* background: url("Flower Asset/pngwing 7.png"), rgba(71, 125, 17, 0.15); */
+    background:  rgba(71, 125, 17, 0.15);
     background-repeat: no-repeat;
     background-position: center;
+    text-align: center;
     border-radius: 300px 300px 0px 0px;
     padding: 30px 30px 0 30px;
-    height: 400px;
+    height: 390px;
 }
 
 .pink-flower-tree{
